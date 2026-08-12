@@ -1,0 +1,12 @@
+tools/
+app/build/
+build/
+.gradle/
+.claude/
+local.properties
+*.apk
+!SFTPBackup.apk
+.idea/
+*.iml
+*.bat
+*.log
